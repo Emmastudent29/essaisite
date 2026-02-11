@@ -1,6 +1,7 @@
 body{
   background-color:white;
     font-family: Poiret One;
+  grid-template-columns: 1fr 1fr 1fr;
 
 }
 
@@ -16,6 +17,7 @@ h1{
 h2{
   color:blue;
 }
+
 
 
 
