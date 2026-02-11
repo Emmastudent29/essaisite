@@ -1,5 +1,5 @@
 body{
-  background-color:white;
+  background-color:black;
     font-family: Poiret One;
   grid-template-columns: 1fr 1fr 1fr;
 
@@ -7,16 +7,17 @@ body{
 
 
 p{
-  color:black;
-  text-align : center;
+  color:white;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 h1{
-  color:black;
+  color:white;
 }
 
 h2{
-  color:blue;
+  color:white;
 }
+
 
 
 
