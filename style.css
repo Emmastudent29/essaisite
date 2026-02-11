@@ -1,8 +1,20 @@
 body{
-  background-color:black;
-    font-family: Poiret One;
-  grid-template-columns: 1fr 1fr 1fr;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:black;
 
+}
+header {
+    text-align: center;
+    padding: 40px;
+    background: white;
+}
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 40px;
 }
 
 
@@ -17,6 +29,7 @@ h1{
 h2{
   color:white;
 }
+
 
 
 
